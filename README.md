@@ -13,7 +13,9 @@ git clone https://github.com/NipuNVemula06/react-redux-task.git
 
 2. Navigate to the project directory
 
+```bash
 cd react-redux-task
+```
 
 3. Install Dependencies
 
@@ -21,8 +23,15 @@ cd react-redux-task
 npm install
 ```
 
-3.  Start Server
+4.  Start Server
 
 ```bash
 npm run dev
 ```
+
+Folder Structure
+
+`src/components` : Contains React Components
+`src/redux` : Contains Redux-related files
+`src/assets` : Contains all the images
+`src/data` : Contains data used in the application
