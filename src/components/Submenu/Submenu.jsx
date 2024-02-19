@@ -13,6 +13,9 @@ const Submenu = () => {
 
   return (
     <div className="submenu">
+      {submenuSelected === null && (
+        <h3 className="submenu-heading">Select a sub category</h3>
+      )}
       {/* display the submenu */}
       <div className="submenu-wrapper">
         {subMenu.map((item) => (
@@ -24,9 +27,6 @@ const Submenu = () => {
           />
         ))}
       </div>
-      {submenuSelected === null && (
-        <h3 className="submenu-heading">Select a sub category</h3>
-      )}
     </div>
   );
 };
