@@ -7,7 +7,7 @@ const ImageCard = ({ image, day }) => {
   return (
     <div className="card">
       <div className="card-imagecontainer">
-        <img src={image} alt="" className="card-image" />
+        <img loading="lazy" src={image} alt="" className="card-image" />
       </div>
       <div className="card-content">
         <div className="card-content-top">

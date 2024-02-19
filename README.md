@@ -1,6 +1,8 @@
 This is a simple React Application with Redux state management that
 demonstrates a dynamic menu interface.
 
+DEMO: https://react-redux-task-brown.vercel.app/
+
 ##Instruction to Execute the code
 
 1. Clone this repository:
