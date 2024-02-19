@@ -1,0 +1,14 @@
+.highlights {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding-bottom: 30px;
+  padding: 0 20px;
+}
+
+.hightlights-images {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}

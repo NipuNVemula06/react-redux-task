@@ -1,0 +1,14 @@
+.submenu-btn {
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.submenu-active {
+  font-size: 18px;
+  font-weight: 600;
+  position: relative;
+}
