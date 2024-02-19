@@ -11,7 +11,11 @@ DEMO: https://react-redux-task-brown.vercel.app/
 git clone https://github.com/NipuNVemula06/react-redux-task.git
 ```
 
-2. Install Dependencies
+2. Navigate to the project directory
+
+cd react-redux-task
+
+3. Install Dependencies
 
 ```bash
 npm install
